@@ -1,0 +1,23 @@
+{
+  "name": "learning_maybe",
+  "version": "1.0.0",
+  "description": "In which I fiddle around with Maybe and related functors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdcoreSteve/learning_maybe.git"
+  },
+  "author": "Steve Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NerdcoreSteve/learning_maybe/issues"
+  },
+  "homepage": "https://github.com/NerdcoreSteve/learning_maybe#readme",
+  "dependencies": {
+    "data.maybe": "^1.2.2",
+    "ramda": "^0.22.1"
+  }
+}
